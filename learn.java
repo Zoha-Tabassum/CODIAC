@@ -1,8 +1,8 @@
-public class learn {
+public class Learn {
 	/** 
 	 * @generated "UML to Java V5.0 (com.ibm.xtools.transform.uml2.java5.internal.UML2JavaTransform)"
 	 */
-	private String Conceptname;
+	private String topicname;
 
 	/** 
 	 * @return the Conceptname
@@ -20,7 +20,7 @@ public class learn {
 	 */
 	public void setConceptname(String theConceptname) {
 		// begin-user-code
-		Conceptname = theConceptname;
+		Conceptname = thetopicname;
 		// end-user-code
 	}
 
