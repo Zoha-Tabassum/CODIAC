@@ -1,8 +1,8 @@
-public class MiniQuiz {
+public class Mini_Quiz {
 	/** 
 	 * @generated "UML to Java V5.0 (com.ibm.xtools.transform.uml2.java5.internal.UML2JavaTransform)"
 	 */
-	private Object ConceptName;
+	private Object Concept_Name;
 
 	/** 
 	 * @return the ConceptName
@@ -18,7 +18,7 @@ public class MiniQuiz {
 	 * @param theConceptName the ConceptName to set
 	 * @generated "UML to Java V5.0 (com.ibm.xtools.transform.uml2.java5.internal.UML2JavaTransform)"
 	 */
-	public void setConceptName(Object theConceptName) {
+	public void setConceptName(Object the_Concept_Name) {
 		// begin-user-code
 		ConceptName = theConceptName;
 		// end-user-code
@@ -27,7 +27,7 @@ public class MiniQuiz {
 	/** 
 	 * @generated "UML to Java V5.0 (com.ibm.xtools.transform.uml2.java5.internal.UML2JavaTransform)"
 	 */
-	private Object TopicName;
+	private Object Topic_Name;
 
 	/** 
 	 * @return the TopicName
