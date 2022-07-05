@@ -1,4 +1,4 @@
-public class Admin extends User {
+public class Admin extends Users {
 	/** 
 	 * @generated "UML to Java V5.0 (com.ibm.xtools.transform.uml2.java5.internal.UML2JavaTransform)"
 	 */
@@ -18,7 +18,7 @@ public class Admin extends User {
 	 * @param theUser the user to set
 	 * @generated "UML to Java V5.0 (com.ibm.xtools.transform.uml2.java5.internal.UML2JavaTransform)"
 	 */
-	public void setUser(User theUser) {
+	public void setUsers(User theUser) {
 		// begin-user-code
 		user = theUser;
 		// end-user-code
